@@ -1,0 +1,26 @@
+body {
+    display: grid;
+    background-color: rgb(246, 242, 242);
+    text-align: center;
+}
+h4 {
+    font-size: 26px;
+    font-weight: 100;
+    background-color: aqua;
+}
+#circles {
+    border-bottom: white;
+    border-width: 5px;
+}
+#catchphrase {
+    background-color: crimson;
+}
+#miss {
+    background-color: chocolate;
+}
+/* .flex-container {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  } */
+  
